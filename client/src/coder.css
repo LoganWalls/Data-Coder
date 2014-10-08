@@ -1,0 +1,30 @@
+div, fieldset{
+  border-radius: 8px;
+}
+
+div{
+  border: 1px solid black;
+  margin-bottom: 3em;
+  margin-right: 1.5em;
+  margin-left: 1.5em;
+  text-align: center;
+}
+
+#control_container{
+  border: none;
+}
+
+#history_container{
+	overflow: auto;
+	border: 1px solid black;
+	height: 20%;
+	width: 33%;
+}
+
+fieldset{
+  margin: 1.5em;
+}
+
+label{
+  margin-right: 2em;
+}
